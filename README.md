@@ -1,2 +1,2 @@
 # SeedsWild-Rec.-Model-
-Adding a filter to the Recommendation model of seedswild
+The filter option enables the user to select the recommended seeds based on their specific location. It's the user's choice to get seed recommendations based on the location or  general seed recommendations.
