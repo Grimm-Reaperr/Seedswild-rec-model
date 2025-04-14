@@ -1,2 +1,10 @@
-# SeedsWild-Rec.-Model-
-The filter option enables the user to select the recommended seeds based on their specific location. It's the user's choice to get seed recommendations based on the location or  general seed recommendations.
+🌱 Seedswild Recommendation Model
+The Seedswild model helps users find the right seeds by analyzing key growing factors like soil type, temperature, and humidity.
+
+New in this version: Location-Based Filtering
+
+✅ Default mode: Recommends seeds based on general growing conditions and popularity.
+
+📍 Location mode: When enabled, detects the user's region and recommends seeds suited to local conditions.
+
+This update makes the system more beginner-friendly and improves accuracy by tailoring suggestions to the user’s actual environment.
